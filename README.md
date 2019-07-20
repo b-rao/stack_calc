@@ -4,7 +4,9 @@ An assignment I've done a while ago.
 
 ## about
 
-To use, input two numbers, then input an operator. 
+To use, compile and run StackCalc.java.
+
+input two numbers, then input an operator. 
 
 For example, if you would like to calculate 5 + 2
 
